@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 031b0e2973c245c67a3b                          #生成的clientID
   clientSecret: f25db9e9b3bd9f652ff247397a8ff11f254f8692    #生成的clientSecret
-  repo:  motanchenyuan/motanchenyuan.github.io #仓库名称
+  repo:  motanchenyuan.github.io #仓库名称
   owner: motanchenyuan      #github用户名
   admin: motanchenyuan
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
